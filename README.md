@@ -34,6 +34,8 @@ Accurate reproduction of nonlinear MD trends
 This hybrid pipeline dramatically accelerates materials property prediction for ordered intermetallic systems.
 
 ## 📁 Repository Structure
+
+```
 1_data
 └── Cu3Au.poscar
 
@@ -58,6 +60,7 @@ This hybrid pipeline dramatically accelerates materials property prediction for 
 Machine Learning for Cu3Au Alloy-1.pdf
 requirements.txt
 README.md
+```
 ## 🧪 1. Molecular Dynamics Simulations
 
 MD simulations were used to generate:
