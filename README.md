@@ -35,27 +35,35 @@ This hybrid pipeline dramatically accelerates materials property prediction for 
 
 ## 📁 Repository Structure
 1_data/
-│   └── Cu3Au.poscar
+│
+└── Cu3Au.poscar
+
 
 2_ml_model/
-│   ├── ML_model.ipynb
-│   └── .ipynb_checkpoints/
+│
+├── ML_model.ipynb
+│
+└── .ipynb_checkpoints/
+        └── ML_model-checkpoint.ipynb
+
 
 3_md_simulation/
-│   ├── md_scripts/
-│   │       ├── newmd.py
-│   │       └── run_md_ase_stress.py
-│   │
-│   ├── outputs/
-│   │       ├── md.traj
-│   │       ├── md_features_output.txt
-│   │       └── stress_strain.txt
-│   │
-│   └── potential/
-│           └── CuAu_fitted.eam.fs
+│
+├── md_scripts/
+│   ├── newmd.py
+│   └── run_md_ase_stress.py
+│
+├── outputs/
+│   ├── md.traj
+│   ├── md_features_output.txt
+│   └── stress_strain.txt
+│
+└── potential/
+    └── CuAu_fitted.eam.fs
 
-Machine Learning for Cu3Au Alloy-1.pdf  
-requirements.txt  
+
+Machine Learning for Cu3Au Alloy-1.pdf
+requirements.txt
 README.md
 
 ## 🧪 1. Molecular Dynamics Simulations
