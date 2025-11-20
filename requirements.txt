@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+tqdm
+spglib
+pymatgen
+ase
+plotly
+joblib
+notebook
