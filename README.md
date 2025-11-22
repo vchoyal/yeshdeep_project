@@ -1,5 +1,10 @@
 # ⭐ Cu₃Au Alloy Mechanical & Thermal Property Prediction using a Hybrid MD–ML Framework
 
+22CSB0A37 K. DANIEL RICH
+
+22CSB0A44 P. YESHDEEP
+
+
 This repository contains the implementation of a Molecular Dynamics (MD) – Machine Learning (ML) hybrid pipeline to predict the mechanical and thermal properties of the Cu₃Au (L1₂ intermetallic) alloy, including:
 
 Young’s Modulus
